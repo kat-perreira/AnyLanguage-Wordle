@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kat-perreira.github.io/static/css/main.2e1dd333.css",
-    "main.js": "/kat-perreira.github.io/static/js/main.ca56b09f.js",
+    "main.js": "/kat-perreira.github.io/static/js/main.f58f3c56.js",
     "static/js/787.3500bfec.chunk.js": "/kat-perreira.github.io/static/js/787.3500bfec.chunk.js",
     "static/media/BCSans-Bold.woff": "/kat-perreira.github.io/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
     "static/media/BCSans-BoldItalic.woff": "/kat-perreira.github.io/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
@@ -9,11 +9,11 @@
     "static/media/BCSans-Regular.woff": "/kat-perreira.github.io/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
     "index.html": "/kat-perreira.github.io/index.html",
     "main.2e1dd333.css.map": "/kat-perreira.github.io/static/css/main.2e1dd333.css.map",
-    "main.ca56b09f.js.map": "/kat-perreira.github.io/static/js/main.ca56b09f.js.map",
+    "main.f58f3c56.js.map": "/kat-perreira.github.io/static/js/main.f58f3c56.js.map",
     "787.3500bfec.chunk.js.map": "/kat-perreira.github.io/static/js/787.3500bfec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e1dd333.css",
-    "static/js/main.ca56b09f.js"
+    "static/js/main.f58f3c56.js"
   ]
 }
