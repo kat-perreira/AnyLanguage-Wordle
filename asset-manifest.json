@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.f3f34998.css",
-    "main.js": "/static/js/main.f3761e44.js",
-    "static/js/787.3500bfec.chunk.js": "/static/js/787.3500bfec.chunk.js",
-    "index.html": "/index.html",
-    "main.f3f34998.css.map": "/static/css/main.f3f34998.css.map",
-    "main.f3761e44.js.map": "/static/js/main.f3761e44.js.map",
-    "787.3500bfec.chunk.js.map": "/static/js/787.3500bfec.chunk.js.map"
+    "main.css": "/kat-perreira.github.io/static/css/main.2e1dd333.css",
+    "main.js": "/kat-perreira.github.io/static/js/main.ca56b09f.js",
+    "static/js/787.3500bfec.chunk.js": "/kat-perreira.github.io/static/js/787.3500bfec.chunk.js",
+    "static/media/BCSans-Bold.woff": "/kat-perreira.github.io/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
+    "static/media/BCSans-BoldItalic.woff": "/kat-perreira.github.io/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
+    "static/media/BCSans-Italic.woff": "/kat-perreira.github.io/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
+    "static/media/BCSans-Regular.woff": "/kat-perreira.github.io/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
+    "index.html": "/kat-perreira.github.io/index.html",
+    "main.2e1dd333.css.map": "/kat-perreira.github.io/static/css/main.2e1dd333.css.map",
+    "main.ca56b09f.js.map": "/kat-perreira.github.io/static/js/main.ca56b09f.js.map",
+    "787.3500bfec.chunk.js.map": "/kat-perreira.github.io/static/js/787.3500bfec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3f34998.css",
-    "static/js/main.f3761e44.js"
+    "static/css/main.2e1dd333.css",
+    "static/js/main.ca56b09f.js"
   ]
 }
